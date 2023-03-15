@@ -1,12 +1,19 @@
 .sidebar {
-    float: left;
     background-color: gold;
     width: 50%;
+    padding: 20px;
+    margin: 20px;
     text-align: center;
     border: 2px solid black;
+    box-sizing: border-box;
 }
 #pics {
     float: right;
+    padding: 20px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+    border: solid black 2px;
 
 }
 .adjust {
@@ -16,8 +23,17 @@
     background-color: aquamarine;
     width: 50%;
     text-align: center;
+    box-sizing: border-box;
 
 }
 .my-class {
+    margin: 12px;
     border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+
+.box1 {
+    width: 50%;
+
 }
