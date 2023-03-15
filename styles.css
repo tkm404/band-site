@@ -3,6 +3,7 @@
     background-color: gold;
     width: 50%;
     text-align: center;
+    border: 2px solid black;
 }
 #pics {
     float: right;
@@ -13,6 +14,10 @@
 }
 .column{
     background-color: aquamarine;
-    width: 50%
-    
+    width: 50.5%;
+
+}
+.my-class {
+    border: 2px solid black;
+    padding: 4px;
 }
