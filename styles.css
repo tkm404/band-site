@@ -1,9 +1,18 @@
 .sidebar {
     float: left;
     background-color: gold;
-    
+    width: 50%;
+    text-align: center;
 }
 #pics {
     float: right;
 
+}
+.adjust {
+    text-indent: -10%;
+}
+.column{
+    background-color: aquamarine;
+    width: 50%
+    
 }
