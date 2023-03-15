@@ -13,8 +13,8 @@
     padding: 20px;
     box-sizing: border-box;
     padding: 20px;
-    margin: 20px;
-    border: solid black 2px;
+    margin-bottom: 20px;
+    border: solid black 20px;
 
 }
 .adjust {
@@ -22,6 +22,7 @@
 }
 .column{
     background-color: aquamarine;
+    width: 50%;
     text-align: center;
     box-sizing: border-box;
 
@@ -33,7 +34,13 @@
     padding: 20px;
 }
 
-.box1 {
+.centered-image {
+    margin: auto;
     width: 50%;
-
+    display: block;
+}
+#two {
+        height: 200px;
+        margin: 20px;
+        background: radial-gradient(circle 200px, #edfea4, #7ac773);
 }
