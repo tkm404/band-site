@@ -14,10 +14,10 @@
 }
 .column{
     background-color: aquamarine;
-    width: 50.5%;
+    width: 50%;
+    text-align: center;
 
 }
 .my-class {
     border: 2px solid black;
-    padding: 4px;
 }
